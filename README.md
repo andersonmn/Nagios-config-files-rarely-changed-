@@ -1,0 +1,1 @@
+# Nagios-config-files-rarely-changed-
